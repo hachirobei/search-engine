@@ -1,0 +1,7 @@
+fastapi==0.68.0
+uvicorn==0.15.0
+transformers==4.10.0
+torch==2.1.0
+mysql-connector-python==8.0.26
+bcrypt==3.2.0
+pyjwt==2.1.0
